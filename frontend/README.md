@@ -35,5 +35,5 @@ A full-stack **MERN** application that allows users to reserve tables online and
 
 ---
 
-## 📂 Project Structure
+
 

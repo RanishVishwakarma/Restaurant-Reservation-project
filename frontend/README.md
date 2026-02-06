@@ -24,6 +24,7 @@ A full-stack **MERN** application that allows users to reserve tables online and
 - React.js
 - Tailwind CSS
 - Axios
+- Toastfy
 
 **Backend**
 - Node.js

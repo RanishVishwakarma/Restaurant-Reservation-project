@@ -1,0 +1,11 @@
+@import "tailwindcss";
+body {
+  color: white;
+  background: rgb(14, 13, 12);
+}
+.bg {
+  background: rgb(26, 27, 28);
+}
+.bg3 {
+  background-image: url("/src/assets/images/restaurant-bg.jpg");
+}

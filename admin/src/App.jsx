@@ -7,7 +7,7 @@ import ListMenu from "./pages/ListMenu.jsx";
 import { Routes, Route } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
 
-export const backendUrl = "http://localhost:4000";
+export const backendUrl = "https://restaurant-reservation-project-7v2m.onrender.com";
 
 const App = () => {
   const [token, setToken] = useState(localStorage.getItem("token") || "");

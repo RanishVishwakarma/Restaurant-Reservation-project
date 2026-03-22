@@ -7,7 +7,7 @@ import ReservationForm from "./Components/ReservationForm.jsx";
 import Footer from "./Components/Footer.jsx";
 import { ToastContainer } from "react-toastify";
 
-export const backendUrl = "http://localhost:4000";
+export const backendUrl = "https://restaurant-reservation-project-7v2m.onrender.com";
 
 const App = () => {
   return (

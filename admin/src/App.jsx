@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import Login from "./Components/Login.jsx";
 import TopNavbar from "./Components/TopNavbar.jsx";
 import AddMenu from "./pages/AddMenu.jsx";
-import AdminTable from "./pages/Admintable.jsx";
+import AdminTable from "./pages/AdminTable.jsx";
 import ListMenu from "./pages/ListMenu.jsx";
 import { Routes, Route } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
